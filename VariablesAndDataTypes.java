@@ -1,10 +1,10 @@
 public class VariablesAndDataTypes {
     public static void main(String[] args) {
         // Declare and initialize different data types
-        int integerVar = 10;
-        double doubleVar = 20.5;
-        char charVar = 'A';
-        String stringVar = "Hello, This is Aswin";
+        int integerVar = 40;
+        double doubleVar = 80.8;
+        char charVar = 'Y';
+        String stringVar = "Hello, This is yamuna";
         boolean boolVar = true;
 
         // Display the values of the variables
